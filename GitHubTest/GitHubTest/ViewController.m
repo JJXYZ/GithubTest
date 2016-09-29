@@ -19,6 +19,7 @@
     
     NSLog(@"Add 1");
     NSLog(@"Add 2");
+    NSLog(@"Add 3");
 }
 
 
