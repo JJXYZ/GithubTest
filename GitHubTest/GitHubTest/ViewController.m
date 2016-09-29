@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"Add 1");
+    NSLog(@"Add 2");
 }
 
 
